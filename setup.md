@@ -6,7 +6,7 @@
 2. Create a [Python Virtual Environment](https://docs.python.org/3.8/library/venv.html) called `env` using the installed Python:  
 ``` python38 -m venv env ```
 
-3. Activate the environement:
+3. Activate the environement:  
 ``` source env/bin/activate ``` (bash/zsh)  
 ``` source env\Scripts\activate.bat ``` (cmd.exe)  
 ``` source env\Scripts\Activate.ps1 ``` (PowerShell)  
