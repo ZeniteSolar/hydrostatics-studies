@@ -1,0 +1,13 @@
+# Basics
+numpy
+matplotlib
+
+# Meshmagick
+#https://github.com/LHEEA/meshmagick/archive/master.zip
+https://github.com/LHEEA/meshmagick/archive/2.1.1.zip
+
+# Jupyter notebook
+jupyter
+notebook
+autopep8
+jupyter_contrib_nbextensions
